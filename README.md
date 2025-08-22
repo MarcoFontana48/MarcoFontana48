@@ -1,3 +1,5 @@
+![](https://komarev.com/ghpvc/?username=MarcoFontana48&style=for-the-badge)
+
 # Hello world, I'm Marco!
 
 ## Most Used Languages
