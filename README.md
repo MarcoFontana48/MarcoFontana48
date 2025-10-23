@@ -1,6 +1,9 @@
 ![](https://komarev.com/ghpvc/?username=MarcoFontana48&style=for-the-badge)
 
 # Hello world, I'm Marco!
+I'm a Software Engineer, M.Sc. at University of Bologna, Cesena Campus, with a strong interest in software systems design and development.
+Check out my profile to find multiple distributed systems projects i've developed during my student career and my master thesis at AUSL della Romagna.
+
 ## My GitHub stats
 <div align="center">
   
