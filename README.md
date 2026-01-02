@@ -13,6 +13,8 @@ Check out my profile to find multiple distributed systems projects I've develope
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MarcoFontana48&hide=html,css,xslt,makefile&langs_count=30&theme=dracula&bg_color=135,0F2027,203A43,2C5364&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 </div>
 
+<!--
 <div align="center">
   <img src="https://raw.githubusercontent.com/Anandb71/Anandb71/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </div>
+-->
